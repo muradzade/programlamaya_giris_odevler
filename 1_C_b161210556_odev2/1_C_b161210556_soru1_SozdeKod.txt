@@ -1,0 +1,13 @@
+1-Basla
+2-Oku 1.odev , 2.odev , 1.kisa sinav , 2.kisa sinav , vize , final notlari , odevlerin yil icine etkisi , kisa sinavlarin yil icine etkisi ,vizenin yil icine etkisi , yil ici puaninin toplam puana etkisi
+3-Final puaninin etki payi=100 - yil ici puaninin toplam puana etkisi
+4-Toplam puan=vize*vizenin yil icine etkisi + 1.odev*odevilerin yil icine etkisi/2 + 2.odev*odevlerin yil icine etkisi/2 + 1.kisa sinav*kisa sinavlarin yil icine etkisi/2 + 2.kisa sinav*kisa sinavlarin yil icine etkisi/2) / 100 * yil ici puaninin toplam puana etkisi / 100 + final*final puaninin etki payi / 100
+5-Eger toplam puan>=90 yaz toplam puan ve AA git 13
+6-Eger toplam puan>=85 yaz toplam puan ve BA git 13
+7-Eger toplam puan>=80 yaz toplam puan ve BB git 13
+8-Eger toplam puan>=75 yaz toplam puan ve CB git 13
+9-Eger toplam puan>=65 yaz toplam puan ve CC git 13
+10-Eger toplam puan>=58 yaz toplam puan ve DC git 13
+11-Eger toplam puan>=50 yaz toplam puan ve DD git 13
+12-Degilse yaz toplam puan ve FF
+13-Dur

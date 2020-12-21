@@ -1,0 +1,7 @@
+1-Basla
+2-Yaz ax² + bx + c = 0 ifadesinde a,b,c sayilarini giriniz
+3-delta=b^2 - 4*a*c
+4-Eger delta>0 ise yaz X1=(-b-karekok(delta))/(2*a) yaz X2=(-b+karekok(delta))/(2*a) git 7
+5-Eger delta<0 ise yaz X1=-b/(2*a)+karekok((-1)*delta)/(2*a) 'i' yaz X2=-b/(2*a)-karekok((-1)*delta)/(2*a) 'i' git 7
+6-Eger delta=0 ise yaz X=(-b+karekok(delta))/(2*a) git 7
+7-Dur
